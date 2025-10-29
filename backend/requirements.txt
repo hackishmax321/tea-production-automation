@@ -1,0 +1,17 @@
+fastapi
+tweepy
+python-dotenv
+pydantic
+joblib
+pandas
+pytrends
+numpy
+httpx
+uvicorn
+Pillow
+tensorflow
+numpy
+httpx
+python-multipart
+scikit-learn
+lightgbm
